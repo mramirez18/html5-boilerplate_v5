@@ -18,6 +18,7 @@ html {
 
 body {
     margin: 0;
+    
 }
 
 
@@ -27,6 +28,8 @@ body {
   padding-top: 60px;
   padding-bottom: 40px;
   margin: top;
+  width: 100%;
+  
   
    
 
@@ -44,6 +47,7 @@ body {
 }
 .navbar {
   background-color: greenyellow;
+  width: 100%;
 }
 
 
