@@ -29,6 +29,7 @@ body {
   padding-bottom: 40px;
   margin: top;
   width: 100%;
+  font: arial bold;
   
   
    
@@ -48,6 +49,7 @@ body {
 .navbar {
   background-color: greenyellow;
   width: 100%;
+
 }
 
 
